@@ -1,6 +1,6 @@
 # shift-management-app
-WebSystem2
-授業の演習で作成したもの2
+WebSystem
+授業の演習で作成したもの
 
 使用しているもの：
 - node.js
