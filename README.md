@@ -1,5 +1,5 @@
 # shift-management-app
-WebSystem
+
 授業の演習で作成したもの
 
 使用しているもの：
